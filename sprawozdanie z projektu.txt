@@ -1,0 +1,14 @@
+1. załadowanie danych
+2. power query 
+-połaczenie tabel 
+-usunięcie pustych wierszy i błedów
+-zamiana "." na "," i zamiana typu kolumny Price Each na liczbowy 
+-rozdzielenie Order Date na dwie kolumny z datą i godzina
+-zamiana wartości w wierszach z błednie zapisanym rokiem i zamiana typu kolumny na Date
+-rozdzielenie kolumny Purchase Address na kolumny Street, Town oraz Zip Code
+
+3. dax
+-utowrzenie tabeli Sales za pomocą języka dax
+-utworzenie miary Sum of Sales oraz Count of Orders za pomocą języka dax
+
+4. utworzenie wizualizacji 
